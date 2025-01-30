@@ -30,9 +30,9 @@ REG NO:24010314
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/f938a47b-cca4-426d-a771-03787864cb36)
+ ![image](https://github.com/user-attachments/assets/f938a47b-cca4-426d-a771-03787864cb36)
 
 
 ## Result : 
 
-the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
+ the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
